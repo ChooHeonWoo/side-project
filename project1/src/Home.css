@@ -1,0 +1,20 @@
+.home {
+  width: auto;
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.home_intro {
+  font-size: 2rem;
+  margin: 50px;
+  margin-top: 200px;
+}
+.home_startBtn {
+  width: 5rem;
+}
+
+.home_form_citySelectBox select {
+  margin-left: 1rem;
+}
